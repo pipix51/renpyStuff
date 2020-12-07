@@ -68,8 +68,6 @@ label prologueScene1:
     stop sound
     stop music fadeout 1.0
 
-    alarmClock "RING!!!!"
-
     "Wake up! Wake up!"
 
     scene black
